@@ -38,7 +38,7 @@ If you use this code or ideas from this repository, please cite the following pa
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/YahiaHesham/Context-Aware-VIT
    cd Context-Aware
    ```
 2. **Set up the Python environment:**
