@@ -1,4 +1,4 @@
-This repo contains an implementation based on the following paper:
+This repo contains an extention to the implementation based on the following paper:
 
 ## Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer
 
@@ -9,7 +9,7 @@ Haleh Damirchi, Michael Greenspan, Ali Etemad
 
 ---
 
-# Context-Aware Trajectory Prediction
+# Context-Aware Trajectory Prediction + VIT
 
 ## Overview
 This project implements a context-aware trajectory prediction framework for pedestrians, inspired by the work of Damirchi et al. (ICIP 2023). **This implementation extends the original approach by incorporating a Vision Transformer (ViT) for visual context encoding, enabling richer scene understanding from images.** The core model, `Trajnet`, fuses trajectory, speed, and visual context to predict future pedestrian trajectories in dynamic environments. The framework is modular, extensible, and built with PyTorch.
